@@ -1,6 +1,7 @@
 👋 Hi, I'm Atchaya!
+
 👀 Interests
-I'm deeply passionate about bioinformatics, data analysis, and computational biology. I enjoy exploring the intersection of biology, technology, and AI-driven research, particularly in genomics, drug discovery, and predictive analytics.
+Deeply passionate about bioinformatics, data analysis, and computational biology. I enjoy exploring the intersection of biology, technology, and AI-driven research, particularly in genomics, drug discovery, and predictive analytics.
 
 🌱 Currently Learning
 I'm continuously expanding my expertise in NGS data analysis, machine learning applications in bioinformatics, and multi-omics approaches. I’m also exploring advanced computational techniques for biomedical research.
